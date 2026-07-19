@@ -1,1 +1,1 @@
-English Hindi language through dataset from kaggle
+English Hindi language translation through dataset from kaggle
